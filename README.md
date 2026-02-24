@@ -1,5 +1,4 @@
 # Introduction
-## 2007/01/29 Taiwan
 
 ##### Name            : 吳瑞宸
 ##### Student ID      : s1143338
