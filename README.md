@@ -4,7 +4,7 @@
 ##### Student ID      : s1143338
 ##### Github Username : JuiChenWu
 ##### Github Profile  : [https://github.com/JuiChenWu](https://github.com/JuiChenWu)
-##### Course Repository URL: [https://github.com/JuiChenWu/](https://github.com/JuiChenWu/11402_CI002/)
+##### Course Repository URL: [https://github.com/JuiChenWu/11402_CI002](https://github.com/JuiChenWu/11402_CI002)
 ##### GitHub Pages URL: [https://juichenwu.github.io/](https://juichenwu.github.io/)
 ##### Notes (optional): Just blank...
 ##### brief description : A boy is 19 live in Taiwan and deal with life, so coding..
