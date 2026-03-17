@@ -10,7 +10,7 @@
 ##### brief description : A boy is 19 live in Taiwan and deal with life, so coding..
 
 # Used for ?
-##### only for submit code in class
+##### only for submit code for courses
 
 # link to my web page
 [https://juichenwu.github.io/](https://juichenwu.github.io/)
