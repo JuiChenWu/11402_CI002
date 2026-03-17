@@ -35,7 +35,7 @@
 │   ├── Week1_01_LeetCode9
 │   ├── Week1_02_LeetCode8
 │   ├── Week2_03_LeetCode6
-│   └── Week2_04_LeetCode231
+│   └── Week2_04_LeetCode125
 └── README.md
 ```
 
