@@ -1,13 +1,11 @@
 class Solution {
 public:
-    void rotate(vector<vector<int>>& matrix) {
-        vector<vector<int>>res(matrix.begin(),matrix.end());
-
-        for(int i=0;i<matrix.size();++i){
-            for(int j=0;j<matrix.size();++j){
-                res[j][matrix.size()-1-i]=matrix[i][j];
-            }
+    bool isPowerOfThree(int n) {
+        if(n<=0){return false;}
+        while(n && n!=1){
+            if(n%3){return false;}
+            n/=3;
         }
-        matrix.assign(res.begin(),res.end());
+        return true;
     }
 };
