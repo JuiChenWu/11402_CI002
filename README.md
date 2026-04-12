@@ -65,6 +65,8 @@
 | 6-07 | LeetCode 658 | [Week6_07_LeetCode658](./Before-Class_Exercises/Week6_07_LeetCode658/) |
 | 7-08 | LeetCode 704 | [Week7_08_LeetCode704](./Before-Class_Exercises/Week7_08_LeetCode704/) |
 | 7-09 | LeetCode 74 | [Week7_09_LeetCode74](./Before-Class_Exercises/Week7_09_LeetCode74/) |
+| 9-10 | LeetCode 724 | [Week9_10_LeetCode724](./Before-Class_Exercises/Week9_10_LeetCode724/) |
+| 9-11 | LeetCode 1109 | [Week9_11_LeetCode1109](./Before-Class_Exercises/Week9_11_LeetCode1109/) |
 
 ## After Class（課後練習）清單
 
@@ -121,7 +123,9 @@
 │   ├── Week6_06_LeetCode414
 │   ├── Week6_07_LeetCode658
 │   ├── Week7_08_LeetCode704
-│   └── Week7_09_LeetCode74
+│   ├── Week7_09_LeetCode74
+│   ├── Week9_10_LeetCode724
+│   └── Week9_11_LeetCode1109
 ├── After-Class_Practices     # 課後練習
 │   ├── Week1_01_LeetCode9
 │   ├── Week1_02_LeetCode8
